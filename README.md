@@ -1,5 +1,3 @@
-# GMISSION-Human
-
 ![](https://github.com/Harry-KIT/GMISSION-Human/blob/main/assets/logo.png)
 
 ## Fall Detection Result
